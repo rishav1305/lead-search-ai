@@ -1,0 +1,7 @@
+[Job Roles]: 
+1. Tech Lead
+2. Manager
+3. Associate Manager
+4. AI Engineer
+5. GenAI Engineer
+6. Gen AI Engineer
